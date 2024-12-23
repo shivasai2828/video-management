@@ -1,0 +1,16 @@
+.nav-bg {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+.nav-logo {
+  width: 40px;
+  height: 40px;
+}
+.nav-bg ul {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  
+}
